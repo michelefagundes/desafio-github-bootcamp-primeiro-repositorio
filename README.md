@@ -1,4 +1,5 @@
-# desafio-github-bootcamp-primeiro-repositorio
-## Desafio de projeto do Bootcamp Santander - Git/GitHub
+## Desafio de projeto Git/Github
+Repositório criado para o desafio de projeto.
 
-[Sintaxe Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+### Links úteis
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
